@@ -12,7 +12,7 @@ bar.appendTo(codebox.app.$el);
 
 commands.register({
     id: "view.statusbar.toggle",
-    title: "View: Toggle Status Bar",
+    title: "打开/关闭状态栏",
     shortcuts: [
         "mod+b", "mod+k"
     ],
